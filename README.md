@@ -54,10 +54,13 @@ Ensure the following are installed:
 * Any Java IDE or Command Prompt / Terminal
 
 ## 2. Clone the Repository
-git clone 
+Use the following command to clone the project from GitHub:
+
+git clone https://github.com/AiTech-ai/Library-Management-System
 
 ## 3. Navigate to Project Folder
 
+cd LibraryManagementSystem
 
 ## 4. Compile All Java Files
 javac *.java
